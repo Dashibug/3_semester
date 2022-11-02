@@ -1,0 +1,5 @@
+git status - проверить статус гита
+git add <NAME_OF_FILE> - добавить файл для отслеживания
+git add * - добавить все изменения, новые файлы и т.д...
+git commit -m "message" - коммитить
+git push
